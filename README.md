@@ -28,6 +28,8 @@ The Dataset consists of images of some common waste materials.
 * Within each folder, there are images of objects that belong to that category.
 * However, these items are not further subcategorised. <br> For instance, the `Food_Waste` folder may contain images of items like coffee grounds, teabags, and fruit peels, without explicitly stating that they are actually coffee grounds or teabags.
 
+**Dataset Download Link**
+[Download Link](https://woolfaws-prod.s3.ap-south-1.amazonaws.com/sharepoint_zips/Dataset_Waste_Segregation.zip)
 
 ## Findings during Dataset Preparation
 **Categorical Composition & Taxonomy**
